@@ -33,7 +33,7 @@
                 {
                     "type" : "git",
                     "url" : "https://github.com/giantpinkrobots/flatsweep.git",
-                    "commit" : "abe4479e039fcca07cb0deb3c7c17690b36fb45b"
+                    "commit" : "af3163dd2df165699926071e2bf8ecf194ab4051"
                 }
             ]
         }
