@@ -1,7 +1,7 @@
 {
     "app-id" : "io.github.giantpinkrobots.flatsweep",
     "runtime" : "org.gnome.Platform",
-    "runtime-version" : "44",
+    "runtime-version" : "45",
     "sdk" : "org.gnome.Sdk",
     "command" : "flatsweep",
     "finish-args" : [
@@ -33,7 +33,7 @@
                 {
                     "type" : "git",
                     "url" : "https://github.com/giantpinkrobots/flatsweep.git",
-                    "commit" : "1284789667080a60d1778e62d38f27b84bd92287"
+                    "commit" : "3289dd4dd6fdae1a81dc6dd1f8d37a57d722400a"
                 }
             ]
         }
